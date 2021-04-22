@@ -1,0 +1,54 @@
+{
+    "poemas": [
+        {
+            "autor": "Miguel de Unamuno",
+            "title": "LEER, LEER, LEER, VIVIR LA VIDA",
+            "texto": "Leer, leer, leer, vivir la vida\nque otros soñaron.\nLeer, leer, leer, el alma olvida\nlas cosas que pasaron.\nSe quedan las que quedan, las ficciones,\nlas flores de la pluma,\nlas solas, las humanas creaciones,\nel poso de la espuma.\nLeer, leer, leer; ¿seré lectura\nmañana también yo?\n¿Seré mi creador, mi criatura,\nseré lo que pasó?"
+        },
+        {
+            "autor": "Miguel de Unamuno",
+            "title": "¡DIME QUÉ DICES, MAR!",
+            "texto": "¡Dime qué dices, mar, qué dices, dime!\nPero no me lo digas; tus cantares\nson, con el coro de tus varios mares,\nuna voz sola que cantando gime.\nEse mero gemido nos redime\nde la letra fatal, y sus pesares,\nbajo el oleaje de nuestros azares,\nel secreto secreto nos oprime.\nLa sinrazón de nuestra suerte abona,\ncalla la culpa y danos el castigo;\nla vida al que nació no le perdona;\nde esta enorme injusticia sé testigo,\nque así mi canto con tu canto entona,\ny no me digas lo que no te digo."
+        },
+        {
+            "autor": "Pio Baroja",
+            "title": "EL GUADARRAMA",
+            "texto": "Muralla del Guadarrama,\ncielo azul, resplandeciente,\naire de tarde, relente,\nviento que silba y que brama,\nolor de jara y retama,\nde tomillo y de romero;\nmontes de color de acero,\nce\u00c3\u00b1uda tranquilidad,\nreposo, serenidad,\nlento anochecer severo."
+        },
+        {
+            "autor": "Miguel de Unamuno",
+            "title": "LA MEDIA LUNA ES UNA CUNA",
+            "texto": "La media luna es una cuna,\n\u00c2\u00bfy qui\u00c3\u00a9n la briza?\ny el ni\u00c3\u00b1o de la media luna,\n\u00c2\u00bfqu\u00c3\u00a9 sue\u00c3\u00b1os riza?\nLa media luna es una cuna,\n\u00c2\u00bfy qui\u00c3\u00a9n la mece?\nLa media luna es una cuna,\nva a luna nueva;\ny al ni\u00c3\u00b1o de la media luna,\n\u00c2\u00bfqui\u00c3\u00a9n me lo lleva?"
+        },
+        {
+            "autor": "Antonio Machado",
+            "title": "MI BUFON",
+            "texto": "El demonio de mis sue\u00c3\u00b1os\nr\u00c3\u00ade con sus labios rojos,\nsus negros y vivos ojos,\nsus dientes finos, peque\u00c3\u00b1os.\nY jovial y picaresco\nse lanza a un baile grotesco,\nluciendo el cuerpo deforme\ny su enorme\njoroba. Es feo y barbudo,\ny chiquit\u00c3\u00adn y panzudo.\nYo no s\u00c3\u00a9 por qu\u00c3\u00a9 raz\u00c3\u00b3n,\nde mi tragedia, buf\u00c3\u00b3n,\nte r\u00c3\u00ades... Mas t\u00c3\u00ba eres vivo\npor tu danzar sin motivo."
+        },
+        {
+            "autor": "Miguel de Unamuno",
+            "title": "LA SANGRE DE MI ESPIRITU",
+            "texto": "La sangre de mi esp\u00c3\u00adritu es mi lengua,\ny mi patria es all\u00c3\u00ad donde resuene\nsoberano su verbo, que no amengua\nsu voz por mucho que ambos mundos llene.\n\nYa S\u00c3\u00a9neca la preludi\u00c3\u00b3 a\u00c3\u00ban no nacida\ny en su austero lat\u00c3\u00adn ella se encierra;\nAlfonso a Europa dio con ella vida.\nCol\u00c3\u00b3n con ella redobl\u00c3\u00b3 la Tierra.\n\nY esta mi lengua flota como el arca\nde cien pueblos contrarios y distantes,\nque las flores en ella hallaron brote,\n\nde Ju\u00c3\u00a1rez y Rizal, pues ella abarca\nlegi\u00c3\u00b3n de razas, lengua en que a Cervantes\nDios le dio el Evangelio del Quijote."
+        },
+        {
+            "autor": "Antonio Machado",
+            "title": "DELETREOS DE ARMONIA",
+            "texto": "Deletreos de armon\u00c3\u00ada\nque ensaya inexperta mano.\nHast\u00c3\u00ado. Cacofon\u00c3\u00ada\ndel sempiterno piano\nque yo de ni\u00c3\u00b1o escuchaba\nso\u00c3\u00b1ando... no s\u00c3\u00a9 con qu\u00c3\u00a9,\ncon algo que no llegaba,\ntodo lo que ya se fue."
+        },
+        {
+            "autor": "Miguel de Unamuno",
+            "title": "CASTILLA",
+            "texto": "T\u00c3\u00ba me levantas, tierra de Castilla,\nen la rugosa palma de tu mano,\nal cielo que te enciende y te refresca,\nal cielo, tu amo,\n\nTierra nervuda, enjuta, despejada,\nmadre de corazones y de brazos,\ntoma el presente en ti viejos colores\ndel noble anta\u00c3\u00b1o.\n\nCon la pradera c\u00c3\u00b3ncava del cielo\nlindan en torno tus desnudos campos,\ntiene en ti cuna el sol y en ti sepulcro\ny en ti santuario.\n\nEs todo cima tu extensi\u00c3\u00b3n redonda\ny en ti me siento al cielo levantado,\naire de cumbre es el que se respira\naqu\u00c3\u00ad, en tus p\u00c3\u00a1ramos.\n\n\u00c2\u00a1Ara gigante, tierra castellana,\na ese tu aire soltar\u00c3\u00a9 mis cantos,\nsi te son dignos bajar\u00c3\u00a1n al mundo\ndesde lo alto!\n\n"
+        },
+        {
+            "autor": "Pio Baroja",
+            "title": "CANCI\u00c3\u201cN DE LOS ARTRITICOS",
+            "texto": "Somos la flor y nata\nde los artriticos,\nsomos la quinta esencia\nde los nefriticos;\ntenemos casi siempre\nhipertensi\u00c3\u00b3n\ny una vaga hipertrofia\ndel coraz\u00c3\u00b3n.\n\nNuestra elegancia es cosa\nbien manifiesta,\nnuestra presencia nunca\nes muy molesta.\nSomos unos Petronios\nde alta tensi\u00c3\u00b3n,\nm\u00c3\u00a1s fervientes del plato\nque de Plat\u00c3\u00b3n.\n\nNo pueden compararse\ncon los artriticos\nlos gafos ulcerosos\no sifiliticos.\nSomos productos natos\nde selecci\u00c3\u00b3n,\nque marchan por la vida\ncon distinci\u00c3\u00b3n.\n\nNos lleva suavemente\nnuestro organismo\na la gota, a la artritis\ny al reumatismo,\ny nos mete, por \u00c3\u00baltimo,\nde un empuj\u00c3\u00b3n,\nen el coma, que es signo\nde conclusi\u00c3\u00b3n.\n\nSomos la flor y nata\nde los artriticos,\nsomos la quinta esencia\nde los nefriticos;\ntenemos casi siempre\nhipertensi\u00c3\u00b3n\ny una vaga hipertrofia\ndel coraz\u00c3\u00b3n."
+        },
+        {
+            "autor": "Miguel de Unamuno",
+            "title": "ME DESTIERRO",
+            "texto": "Me destierro a la memoria,\nvoy a vivir del recuerdo.\nBuscadme, si me os pierdo,\nen el yermo de la historia,\n\nque es enfermedad la vida\ny muero viviendo enfermo.\nMe voy, pues, me voy al yermo\ndonde la muerte me olvida.\n\nY os llevo conmigo, hermanos,\npara poblar mi desierto.\nCuando me cre\u00c3\u00a1is m\u00c3\u00a1s muerto\nretemblar\u00c3\u00a9 en vuestras manos.\n\nAqui os dejo mi alma?libro,\nhombre?mundo verdadero.\nCuando vibres todo entero,\nsoy yo, lector, que en ti vibro."
+        }
+    ]
+}
